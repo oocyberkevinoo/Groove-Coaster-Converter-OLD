@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Groove Coaster Converter": {
+      "commandName": "Project",
+      "commandLineArgs": "DEBUG"
+    }
+  }
+}
