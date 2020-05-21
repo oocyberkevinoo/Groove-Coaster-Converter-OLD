@@ -1,0 +1,18 @@
+Groove Coaster Converter v0.1.0 - HELP
+by CyberKevin
+
+How to convert a song ?
+
+1- Place the songs in the "songs" folder.
+2- Launch Groove Coaster Converter and select a Conversion program
+3- Insert the song folder's name
+4- Follow instructions relative to the Conversion you want.
+	(Switch for Example need you to select a folder to place your song)
+5- Wait for the program to ask you for another song to close the program, your song is converted.
+
+
+6- FOR CONVERSIONS TO SWITCH VERSION :
+	It will be directly placed as a LayeredFS mod for Atmosphere 0.10 inside the switch folder.
+	Place it at the root of your SD Card, and it's done !
+	(if you use a older version of Atmosphere, you have to manually rename the "contents" folder to "titles")
+	(if you use another Switch CFW, follow their isntructions for installing mods.)

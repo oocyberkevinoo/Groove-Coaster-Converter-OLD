@@ -1,0 +1,7 @@
+Groove Coaster Converter v0.1.0 - HELP
+by CyberKevin
+
+0.1.0 - 31/01/2020
+
+- First release
+- Can only convert Arcade Groove Coaster 2 and Mobile songs to the Switch version for now 

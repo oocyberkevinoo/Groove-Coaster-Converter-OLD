@@ -9,7 +9,7 @@ namespace Groove_Coaster_Converter
     {
         public static string title = "Groove Coaster Converter";
         private static string author = "by CyberKevin";
-        static readonly string version = "0.2.0";
+        static readonly string version = "0.1.0";
         public static readonly string songFolder = @"songs";
         public static readonly string conversionFolder = @"songs\Converted";
         public static bool debug = false;
